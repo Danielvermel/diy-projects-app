@@ -1,9 +1,11 @@
 
 
 export default (posts = [], action) => {
-    switch (posts.type) {
+
+    switch (action.type) {
         case 'FETCH_ALL':   
-            return posts.payload;
+        console.log( 'reducers posts.js')
+            return action.payload;
         
         case 'CREATE':
             return [...posts, action.payload]
