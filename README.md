@@ -29,6 +29,5 @@ This is a small prototype project developed in my free time where you can post d
 
 <a id="project-preview"></a>
 ##  Project Preview
-
-
+<img width="1423" alt="Screenshot 2021-06-29 at 18 42 16" src="https://user-images.githubusercontent.com/32749108/123844083-82a9d280-d90a-11eb-9c8b-5a10e412de55.png">
 
